@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://toleisoori.please-hire.me/sitemap.xml
